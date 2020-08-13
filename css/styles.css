@@ -1,5 +1,5 @@
 
-@media screen and (min-width: 1000px){
+@media screen and (min-width: 480px) and (max-width: 1200px) {
     #style {
         color: black;
         font-size: 28px;
